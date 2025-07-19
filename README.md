@@ -1,4 +1,5 @@
 ## ECG Digitization
+*Development of an ECG digitization pipeline using deep learning
 
 Author: Cyrus Achtari (cachtari@student.ethz.ch)
 
