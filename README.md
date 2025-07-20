@@ -10,7 +10,7 @@ The code consists of 4 folders, each containing an individual step in developing
 3. Model Training: python files to run the model training
 4. Digitization pipeline: notebooks to digitize single images, or run validation metrics on the test sets 
 
-README files are found within each folder with instructions for running each process and the environment used as different environemnts had to be setup due to compatibility issues
+READ_ME files are found within each folder with instructions for running each process and the environment used as different environemnts had to be setup due to compatibility issues
 
 ## intermediate_steps.ipynb
 
