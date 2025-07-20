@@ -9,12 +9,6 @@ To modify whether the images are generated in Cabrera format and if a rhythm str
 
 To modify the layout, change the *--num_columns* argument in the `generate_images.sh` file to either 1, 2, 3 or 4
 
-*Code adapted from [ECG-Image-Kit](https://github.com/alphanumericslab/ecg-image-kit/)*
-
-Kshama Kodthalu Shivashankara, Deepanshi, Afagh Mehri Shervedani, Matthew A. Reyna, Gari D. Clifford, Reza Sameni (2024). ECG-image-kit: a synthetic image generation toolbox to facilitate deep learning-based electrocardiogram digitization. In Physiological Measurement. IOP Publishing. doi: 10.1088/1361-6579/ad4954
-
-ECG-Image-Kit: A Toolkit for Synthesis, Analysis, and Digitization of Electrocardiogram Images, (2024). URL: https://github.com/alphanumericslab/ecg-image-kit
-
 ## Installation
 
 ### Setup with Conda Environment
@@ -22,3 +16,9 @@ ECG-Image-Kit: A Toolkit for Synthesis, Analysis, and Digitization of Electrocar
 ```bash
 conda env create -f environment.yml
 conda activate ecg
+
+## Code adapted from [ECG-Image-Kit](https://github.com/alphanumericslab/ecg-image-kit/)
+
+Kshama Kodthalu Shivashankara, Deepanshi, Afagh Mehri Shervedani, Matthew A. Reyna, Gari D. Clifford, Reza Sameni (2024). ECG-image-kit: a synthetic image generation toolbox to facilitate deep learning-based electrocardiogram digitization. In Physiological Measurement. IOP Publishing. doi: 10.1088/1361-6579/ad4954
+
+ECG-Image-Kit: A Toolkit for Synthesis, Analysis, and Digitization of Electrocardiogram Images, (2024). URL: https://github.com/alphanumericslab/ecg-image-kit
