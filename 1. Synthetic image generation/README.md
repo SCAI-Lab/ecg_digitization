@@ -16,7 +16,7 @@ To modify the layout, change the *--num_columns* argument in the `generate_image
 ```bash
 conda env create -f environment.yml
 conda activate ecg
-
+```
 ## Code adapted from [ECG-Image-Kit](https://github.com/alphanumericslab/ecg-image-kit/)
 
 Kshama Kodthalu Shivashankara, Deepanshi, Afagh Mehri Shervedani, Matthew A. Reyna, Gari D. Clifford, Reza Sameni (2024). ECG-image-kit: a synthetic image generation toolbox to facilitate deep learning-based electrocardiogram digitization. In Physiological Measurement. IOP Publishing. doi: 10.1088/1361-6579/ad4954
